@@ -3,4 +3,4 @@ def line(array)
     narray = []
     counter = 1 
     array.each do |name|
-      narray.push (#{counter})
+      narray.push ("#{counter})
