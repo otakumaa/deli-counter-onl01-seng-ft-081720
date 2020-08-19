@@ -1,3 +1,10 @@
 def line(array)
-  if 
+  if array.length >= 1 
+    narray = []
+    counter = 1 
+    array.each do |name|
+      narray.push ("#{counter}. #{name}")
+      counter += 1
+    end
+    puts "the "
       
