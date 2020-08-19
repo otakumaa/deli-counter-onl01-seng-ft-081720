@@ -6,5 +6,5 @@ def line(array)
       narray.push ("#{counter}. #{name}")
       counter += 1
     end
-    puts "the "
+    
       
