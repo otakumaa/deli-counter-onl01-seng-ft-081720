@@ -12,7 +12,6 @@ def line(array)
   end
 end
 
-line(katz_deli)
 
 def take_a_number(line, new_person)
   line << new_person
