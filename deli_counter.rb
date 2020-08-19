@@ -6,7 +6,7 @@ def line(array)
       narray.push ("#{counter}. #{name}")
       counter += 1
     end
-    puts "The line is currently: #{narray.join(" ")}"
+    puts "The line is currently #{narray.join(" ")}"
   else
     puts "The line is currently empty."
   end
