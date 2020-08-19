@@ -14,5 +14,7 @@ end
 
 line(katz_deli)
 
-
+def take_a_number(line, new_customer)
+  line << new_customer
+  puts 
       
